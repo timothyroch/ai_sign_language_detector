@@ -107,6 +107,7 @@ ai_sign_detector/
 ### 3. **Train the Model**
    Train the gesture recognition model using `train_model.py`:
    ```bash
+   python scripts/data_split.py
    python scripts/train_model.py
    ```
    python scripts/data_split.py
