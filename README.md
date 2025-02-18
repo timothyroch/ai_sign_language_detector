@@ -1,7 +1,3 @@
-Thank you for clarifying the structure! Based on this, here's an updated and detailed **`README.md`** tailored to your project:
-
----
-
 # **AI Sign Language Detector**
 
 An AI-powered application for detecting and recognizing sign language gestures in real-time. This project leverages computer vision and deep learning to assist with sign language communication by identifying hand gestures through a webcam.
