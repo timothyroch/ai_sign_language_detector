@@ -136,7 +136,7 @@ Graphs displaying model performance over epochs:
 ---
 
 ## **Results**
-- **Final Accuracy**: 90% on validation data.
+- **Final Accuracy**: 97% on validation data.
 - **Supported Gestures**: 'A', 'B', 'C', 'D' (expandable to more gestures).
 
 ---
